@@ -1,0 +1,2 @@
+handle error
+server not responding bcoz of big data
